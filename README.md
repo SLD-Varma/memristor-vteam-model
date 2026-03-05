@@ -20,7 +20,7 @@ Python implementation of a simple VTEAM-based memristor model for RRAM devices.
 
 
 
-git clone https://github.com/yourname/memristor-vteam-model.git
+git clone https://github.com/SLD-Varma/memristor-vteam-model.git
 
 
 
