@@ -58,8 +58,6 @@ ax[0].set_title("I-V Curve of RRAM Device")
 ax[1].plot(V, W,'o')
 ax[1].set_xlabel("Voltage (V)")
 ax[1].set_ylabel("w (doping in nm)")
-#ax[1].set_xlim(2.4, 3.0)
-#ax[1].set_ylim(29, 31)
 
 plt.tight_layout()
 plt.show()
